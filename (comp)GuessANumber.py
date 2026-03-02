@@ -15,4 +15,5 @@ def guess(x):
             break        
 
 
-guess(3)
+
+guess(100)
