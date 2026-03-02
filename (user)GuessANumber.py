@@ -21,4 +21,5 @@ def computer_guess(x):
         
    print(f'yayyyy!!!! you have guessed the {guess} correctly')
 
-computer_guess(3)
+
+computer_guess(100)
